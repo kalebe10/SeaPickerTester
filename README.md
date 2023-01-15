@@ -1,2 +1,2 @@
-# SeaPickerTester
+# SeatPicker
 Created with CodeSandbox
